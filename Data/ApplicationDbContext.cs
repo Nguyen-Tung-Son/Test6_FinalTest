@@ -15,5 +15,7 @@ namespace Test6_FinalTest.Data
         }
 
         public DbSet<Test6_FinalTest.Models.CompanyNTS999> CompanyNTS999 { get; set; } = default!;
+
+        public DbSet<Test6_FinalTest.Models.NTS0999> NTS0999 { get; set; } = default!;
     }
 }

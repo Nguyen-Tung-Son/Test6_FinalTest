@@ -16575,6 +16575,16 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Test6_FinalTest\\Test6_FinalTest\\Views\\NTS0999\\Details.cshtml",
+      "TargetPath": "Views\\NTS0999\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Test6_FinalTest\\Test6_FinalTest\\Views\\NTS0999\\Edit.cshtml",
+      "TargetPath": "Views\\NTS0999\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Test6_FinalTest\\Test6_FinalTest\\Views\\CompanyNTS999\\Details.cshtml",
       "TargetPath": "Views\\CompanyNTS999\\Details.cshtml",
       "FileKind": "mvc"
@@ -16605,6 +16615,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Test6_FinalTest\\Test6_FinalTest\\Views\\NTS0999\\Delete.cshtml",
+      "TargetPath": "Views\\NTS0999\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Test6_FinalTest\\Test6_FinalTest\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
@@ -16612,6 +16627,16 @@
     {
       "FilePath": "c:\\Test6_FinalTest\\Test6_FinalTest\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Test6_FinalTest\\Test6_FinalTest\\Views\\NTS0999\\Index.cshtml",
+      "TargetPath": "Views\\NTS0999\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Test6_FinalTest\\Test6_FinalTest\\Views\\NTS0999\\Create.cshtml",
+      "TargetPath": "Views\\NTS0999\\Create.cshtml",
       "FileKind": "mvc"
     }
   ],
