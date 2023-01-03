@@ -16555,6 +16555,11 @@
   "RootNamespace": "Test6_FinalTest",
   "Documents": [
     {
+      "FilePath": "c:\\Test6_FinalTest\\Test6_FinalTest\\Views\\CompanyNTS999\\Create.cshtml",
+      "TargetPath": "Views\\CompanyNTS999\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Test6_FinalTest\\Test6_FinalTest\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
@@ -16570,13 +16575,33 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Test6_FinalTest\\Test6_FinalTest\\Views\\CompanyNTS999\\Details.cshtml",
+      "TargetPath": "Views\\CompanyNTS999\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Test6_FinalTest\\Test6_FinalTest\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Test6_FinalTest\\Test6_FinalTest\\Views\\CompanyNTS999\\Delete.cshtml",
+      "TargetPath": "Views\\CompanyNTS999\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Test6_FinalTest\\Test6_FinalTest\\Views\\CompanyNTS999\\Edit.cshtml",
+      "TargetPath": "Views\\CompanyNTS999\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Test6_FinalTest\\Test6_FinalTest\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Test6_FinalTest\\Test6_FinalTest\\Views\\CompanyNTS999\\Index.cshtml",
+      "TargetPath": "Views\\CompanyNTS999\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
